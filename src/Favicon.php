@@ -19,7 +19,7 @@ namespace nguyenanhung\Libraries\Favicon;
  */
 class Favicon
 {
-    const VERSION = '1.0.0';
+    const VERSION = '2.0.0';
 
     /**
      * Function getVersion
@@ -29,7 +29,7 @@ class Favicon
      * @copyright: 713uk13m <dev@nguyenanhung.com>
      * @time     : 08/18/2021 36:14
      */
-    public function getVersion()
+    public function getVersion(): string
     {
         return self::VERSION;
     }
@@ -37,7 +37,7 @@ class Favicon
     /**
      * Function faviconHtml - Function này hỗ trợ return ra 1 đoạn HTML dùng show Favicon, được build từ https://www.favicon-generator.org/
      *
-     * @param $baseUrl
+     * @param string $baseUrl
      *
      * @return string
      * @author   : 713uk13m <dev@nguyenanhung.com>
@@ -46,7 +46,7 @@ class Favicon
      *
      * @see      : https://www.favicon-generator.org/
      */
-    public function faviconHtml($baseUrl = '')
+    public function faviconHtml(string $baseUrl = ''): string
     {
         $baseUrl = trim($baseUrl) . '/';
         $html = '<link rel="apple-touch-icon" sizes="57x57" href="' . $baseUrl . 'apple-icon-57x57.png">' . PHP_EOL;
