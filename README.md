@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/favicon-helper/v)](https://packagist.org/packages/nguyenanhung/favicon-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/favicon-helper/downloads)](https://packagist.org/packages/nguyenanhung/favicon-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/favicon-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/favicon-helper) [![License](http://poser.pugx.org/nguyenanhung/favicon-helper/license)](https://packagist.org/packages/nguyenanhung/favicon-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/favicon-helper/require/php)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/favicon-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/favicon-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/favicon-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/favicon-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/favicon-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/favicon-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/favicon-helper/php)](https://packagist.org/packages/nguyenanhung/favicon-helper)
 
 # Favicon Helper
 
